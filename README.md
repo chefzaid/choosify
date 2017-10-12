@@ -1,0 +1,2 @@
+# choosify
+Social choosing app
