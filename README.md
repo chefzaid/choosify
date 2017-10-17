@@ -1,2 +1,2 @@
 # choosify
-Social choosing app
+Social decision making app / Crowdsourcing of opinions
